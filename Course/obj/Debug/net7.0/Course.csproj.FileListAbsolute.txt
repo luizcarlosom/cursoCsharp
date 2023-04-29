@@ -1,0 +1,15 @@
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/bin/Debug/net7.0/Course
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/bin/Debug/net7.0/Course.deps.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/bin/Debug/net7.0/Course.runtimeconfig.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/bin/Debug/net7.0/Course.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/bin/Debug/net7.0/Course.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.csproj.AssemblyReference.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.AssemblyInfoInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.AssemblyInfo.cs
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.csproj.CoreCompileInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/refint/Course.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/Course.genruntimeconfig.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/Course/obj/Debug/net7.0/ref/Course.dll

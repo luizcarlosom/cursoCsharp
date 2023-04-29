@@ -1,0 +1,15 @@
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.deps.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.runtimeconfig.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.csproj.AssemblyReference.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/refint/PrimeiroProjeto.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.genruntimeconfig.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/PrimeiroProjeto/obj/Debug/net7.0/ref/PrimeiroProjeto.dll
