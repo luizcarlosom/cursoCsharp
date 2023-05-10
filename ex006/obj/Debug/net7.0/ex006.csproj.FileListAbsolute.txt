@@ -1,0 +1,15 @@
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/bin/Debug/net7.0/ex006
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/bin/Debug/net7.0/ex006.deps.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/bin/Debug/net7.0/ex006.runtimeconfig.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/bin/Debug/net7.0/ex006.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/bin/Debug/net7.0/ex006.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.csproj.AssemblyReference.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.AssemblyInfoInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.AssemblyInfo.cs
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.csproj.CoreCompileInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/refint/ex006.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ex006.genruntimeconfig.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ex006/obj/Debug/net7.0/ref/ex006.dll

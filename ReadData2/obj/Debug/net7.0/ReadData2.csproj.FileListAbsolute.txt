@@ -1,0 +1,15 @@
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.csproj.AssemblyReference.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.AssemblyInfoInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.AssemblyInfo.cs
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.csproj.CoreCompileInputs.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/bin/Debug/net7.0/ReadData2
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/bin/Debug/net7.0/ReadData2.deps.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/bin/Debug/net7.0/ReadData2.runtimeconfig.json
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/bin/Debug/net7.0/ReadData2.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/bin/Debug/net7.0/ReadData2.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/refint/ReadData2.dll
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.pdb
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ReadData2.genruntimeconfig.cache
+/home/luiz/Documentos/Repositorios/cursoCsharp/ReadData2/obj/Debug/net7.0/ref/ReadData2.dll
